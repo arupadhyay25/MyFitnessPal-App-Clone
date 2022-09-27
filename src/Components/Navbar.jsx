@@ -18,12 +18,12 @@ import { Link } from "react-router-dom";
 const Navbar = () => {
   return (
     <>
-      <Container maxW="100%" p={6} pl={150} pr={150}>
-        <Flex color="#0066ee">
+      <Container maxW="100%" p={4} pl={150} pr={150}>
+        <Flex color="#0066ee" >
           <Box>
             <Link to="/">
-              <Heading>
-                myfitnesspal<span style={{ fontSize: "15px" }}>™</span>
+              <Heading size="lg" style={{ display:"flex" }}>
+                myfitnesspal<Text style={{ fontSize: "15px" }}>™</Text>
               </Heading>
             </Link>
           </Box>
@@ -31,7 +31,7 @@ const Navbar = () => {
           <ButtonGroup>
             <HStack>
               <Link to="/login">
-                <Text size="md">Login</Text>
+                <Text size="sm">Login</Text>
               </Link>
             </HStack>
             <HStack>
@@ -39,7 +39,7 @@ const Navbar = () => {
             </HStack>
             <HStack>
               <Link to="/login">
-                <Text size="md">Signup</Text>
+                <Text size="sm">Signup</Text>
               </Link>
             </HStack>
           </ButtonGroup>
@@ -57,37 +57,37 @@ const Navbar = () => {
           <ButtonGroup gap={7}>
             <HStack>
               <Link to="/about">
-                <Heading size="md">About</Heading>
+                <Heading size="sm">About</Heading>
               </Link>
             </HStack>
             <HStack>
               <Link to="/food">
-                <Heading size="md">Food</Heading>
+                <Heading size="sm">Food</Heading>
               </Link>
             </HStack>
             <HStack>
               <Link to="/exercise">
-                <Heading size="md">Exercise</Heading>
+                <Heading size="sm">Exercise</Heading>
               </Link>
             </HStack>
             <HStack>
               <Link to="/apph">
-                <Heading size="md">App</Heading>
+                <Heading size="sm">App</Heading>
               </Link>
             </HStack>
             <HStack>
               <Link to="/community">
-                <Heading size="md">Community</Heading>
+                <Heading size="sm">Community</Heading>
               </Link>
             </HStack>
             <HStack>
               <Link to="/blog">
-                <Heading size="md">Blog</Heading>
+                <Heading size="sm">Blog</Heading>
               </Link>
             </HStack>
             <HStack>
               <Link to="/premium">
-                <Heading size="md">Premium</Heading>
+                <Heading size="sm">Premium</Heading>
               </Link>
             </HStack>
           </ButtonGroup>
