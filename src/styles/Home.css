@@ -1,0 +1,17 @@
+#bg1 {
+  margin: auto;
+  width: 99.99%;
+  height: 630px;
+  background-image: url("../Components/BGimage.png");
+  background-position: center;
+  background-size: cover;
+}
+#bg2 {
+    margin: auto;
+  background-image: url("../Components/BGimage2.png");
+  height: 40vh;
+  width: 99.99%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
