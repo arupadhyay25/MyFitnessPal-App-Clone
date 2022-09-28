@@ -1,6 +1,6 @@
 import { VStack, Image } from "@chakra-ui/react";
 import React from "react";
-import image from "../Components/Dribbble.jpeg";
+import image from "../Images/Dribbble.jpeg";
 
 const Profile = () => {
   return (
