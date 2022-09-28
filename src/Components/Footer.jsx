@@ -61,7 +61,7 @@ const Footer = () => {
           </Link>
         </Flex>
       </Container>
-      <Container>
+      <Container maxW="100%" bg="#F6F6F8">
         <Flex
           justify="center"
           p=" 0px 0px 30px 0px"
