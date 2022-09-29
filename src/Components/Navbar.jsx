@@ -66,8 +66,8 @@ const Navbar = () => {
               </Link>
             </HStack>
             <HStack>
-              <Link to="/exercise">
-                <Heading size="sm">Exercise</Heading>
+              <Link to="/bmi">
+                <Heading size="sm">BMI</Heading>
               </Link>
             </HStack>
             <HStack>
