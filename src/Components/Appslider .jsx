@@ -12,14 +12,13 @@ import slide_img7 from "../Images/App_img7.png";
 export default class SimpleSlider extends Component {
   render() {
     const settings = {
-      className: "center",
-      centerMode: true,
       infinite: true,
-      centerPadding: "60px",
       slidesToShow: 1,
-      speed: 500,
+      slidesToScroll: 1,
       autoplay: true,
-      autoplaySpeed: 3000,
+      autoplaySpeed: 2000,
+      pauseOnHover: true,
+      fade: true,
     };
     return (
       <div>

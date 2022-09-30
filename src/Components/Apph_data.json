@@ -1,0 +1,116 @@
+{
+  "Fapp_data": [
+    {
+      "text": "Fitbit",
+      "url": "https://dakd0cjsv8wfa.cloudfront.net/images/api_clients/0/api_clients_30_1_10_0_45741.png",
+      "stext": "Activity Trackers"
+    },
+    {
+      "text": "Garmin Connect",
+      "url": "https://dakd0cjsv8wfa.cloudfront.net/images/api_clients/0/api_clients_120_1_10_0_9523.png",
+      "stext": "Activity Trackers"
+    },
+    {
+      "text": "VeSync",
+      "url": "https://dakd0cjsv8wfa.cloudfront.net/images/api_clients/0/api_clients_389_1_10_0_31181.png",
+      "stext": "Activity Trackers"
+    },
+    {
+      "text": "Renpho Health",
+      "url": "https://dakd0cjsv8wfa.cloudfront.net/images/api_clients/0/api_clients_392_1_10_0_97000.png",
+      "stext": "Activity Trackers"
+    },
+    {
+      "text": "Strava",
+      "url": "https://dakd0cjsv8wfa.cloudfront.net/images/api_clients/0/api_clients_229_1_10_0_84885.png",
+      "stext": "Fitness Apps"
+    },
+    {
+      "text": "MapMyRun",
+      "url": "https://dakd0cjsv8wfa.cloudfront.net/images/api_clients/0/api_clients_180_1_10_0_3668.png",
+      "stext": "Fitness Apps"
+    },
+    {
+      "text": "RunKeeper",
+      "url": "https://dakd0cjsv8wfa.cloudfront.net/images/api_clients/0/api_clients_102_1_10_0_44251.png",
+      "stext": "Fitness Apps"
+    }
+  ],
+  "Mapp_data": [
+    {
+      "text": "Fitbit",
+      "stext": "Activity Trackers",
+      "url": "https://dakd0cjsv8wfa.cloudfront.net/images/api_clients/0/api_clients_30_1_10_0_45741.png"
+    },
+    {
+      "text": "Garmin Connect",
+      "stext": "Activity Trackers",
+      "url": "https://dakd0cjsv8wfa.cloudfront.net/images/api_clients/0/api_clients_120_1_10_0_9523.png"
+    },
+    {
+      "text": "MapMyFitness",
+      "stext": "Fitness Apps",
+      "url": "https://dakd0cjsv8wfa.cloudfront.net/images/api_clients/0/api_clients_110_1_10_0_74815.png"
+    },
+    {
+      "text": "MapMyWalk",
+      "stext": "Fitness Apps",
+      "url": "https://dakd0cjsv8wfa.cloudfront.net/images/api_clients/0/api_clients_182_1_10_0_90660.png"
+    },
+    {
+      "text": "MapMyRun",
+      "stext": "Fitness Apps",
+      "url": "https://dakd0cjsv8wfa.cloudfront.net/images/api_clients/0/api_clients_180_1_10_0_3668.png"
+    },
+    {
+      "text": "MapMyRide",
+      "stext": "Fitness Apps",
+      "url": "https://dakd0cjsv8wfa.cloudfront.net/images/api_clients/0/api_clients_184_1_10_0_61431.png"
+    },
+    {
+      "text": "Health Mate",
+      "stext": "Activity Trackers",
+      "url": "https://dakd0cjsv8wfa.cloudfront.net/images/api_clients/0/api_clients_139_1_10_0_10915.png"
+    },
+    {
+      "text": "Strava",
+      "stext": "Fitness Apps",
+      "url": "https://dakd0cjsv8wfa.cloudfront.net/images/api_clients/0/api_clients_229_1_10_0_84885.png"
+    },
+    {
+      "text": "RunKeeper",
+      "stext": "Fitness Apps",
+      "url": "https://dakd0cjsv8wfa.cloudfront.net/images/api_clients/0/api_clients_102_1_10_0_44251.png"
+    },
+    {
+      "text": "Runtastic",
+      "stext": "Fitness Apps",
+      "url": "https://dakd0cjsv8wfa.cloudfront.net/images/api_clients/0/api_clients_2_1_10_0_87968.png"
+    },
+    {
+      "text": "Polar Flow",
+      "stext": "Activity Trackers",
+      "url": "https://dakd0cjsv8wfa.cloudfront.net/images/api_clients/0/api_clients_331_1_10_0_52964.png"
+    },
+    {
+      "text": "xID",
+      "stext": "Fitness Apps",
+      "url": "https://dakd0cjsv8wfa.cloudfront.net/images/api_clients/0/api_clients_86_1_10_0_19952.png"
+    },
+    {
+      "text": "TrainingPeaks",
+      "stext": "Fitness Apps",
+      "url": "https://dakd0cjsv8wfa.cloudfront.net/images/api_clients/0/api_clients_306_1_10_0_49537.png"
+    },
+    {
+      "text": "Misfit",
+      "stext": "Activity Trackers",
+      "url": "https://dakd0cjsv8wfa.cloudfront.net/images/api_clients/0/api_clients_282_1_10_0_81543.png"
+    },
+    {
+      "text": "Glow",
+      "stext": "Fertility",
+      "url": "https://dakd0cjsv8wfa.cloudfront.net/images/api_clients/0/api_clients_130_1_10_0_23647.png"
+    }
+  ]
+}
