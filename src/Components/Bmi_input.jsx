@@ -56,38 +56,37 @@ const Bmi_input = () => {
         Check Your Bmi
       </Heading>
       <Alert status={status}>
-        {status ===
-          "info"?(
-            <>
-              <AlertIcon />
-              <AlertTitle>
-                Please Enter the Credentials to calculate Bmi.
-              </AlertTitle>
-            </>
-          ):false}
-        {status ===
-          "success"?(
-            <>
-              <AlertIcon />
-              <AlertTitle>
-                Success.
-              </AlertTitle>
-            </>
-          ):false}
-        {status ===
-          "error"?(
-            <>
-              <AlertIcon />
-              <AlertTitle>
-                Credentials missing.
-              </AlertTitle>
-            </>
-          ):false}
+        {status === "info" ? (
+          <>
+            <AlertIcon />
+            <AlertTitle>
+              Please Enter the Credentials to calculate Bmi.
+            </AlertTitle>
+          </>
+        ) : (
+          false
+        )}
+        {status === "success" ? (
+          <>
+            <AlertIcon />
+            <AlertTitle>Success.</AlertTitle>
+          </>
+        ) : (
+          false
+        )}
+        {status === "error" ? (
+          <>
+            <AlertIcon />
+            <AlertTitle>Credentials missing.</AlertTitle>
+          </>
+        ) : (
+          false
+        )}
       </Alert>
-      <Grid templateColumns="repeat(2, 1fr)" gap={2} w="100%">
+      <Grid templateColumns="repeat(2, 1fr)"  gap={2}>
         <GridItem colSpan={2}>
           <FormControl isRequired>
-            <FormLabel>Your Height</FormLabel>
+            <FormLabel>Your Height (Cm)</FormLabel>
             <Input
               focusBorderColor="blue.400"
               name="height"
@@ -99,7 +98,7 @@ const Bmi_input = () => {
         </GridItem>
         <GridItem colSpan={2}>
           <FormControl isRequired>
-            <FormLabel>Your Weight</FormLabel>
+            <FormLabel>Your Weight (Kg)</FormLabel>
             <Input
               focusBorderColor="blue.400"
               name="weight"

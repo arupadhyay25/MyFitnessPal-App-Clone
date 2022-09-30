@@ -10,6 +10,8 @@ import {
   TableCaption,
   TableContainer,
   Box,
+  Center,
+  Container,
 } from "@chakra-ui/react";
 
 function Speedometer({ value }) {
@@ -21,7 +23,7 @@ function Speedometer({ value }) {
   }
   return (
     <>
-      <Box mb="-130px">
+      <Box>
         <ReactSpeedometer
           segments={4}
           value={fvalue}
@@ -29,8 +31,8 @@ function Speedometer({ value }) {
           maxValue={40}
           segmentColors={["#21A6F3", "#40BC64", "#FC5448", "#9420DB"]}
           needleColor="black"
-          width={300}
           currentValueText="Your BMI ${value}"
+          height={200}
           customSegmentLabels={[
             {
               text: "Normal",
@@ -54,10 +56,7 @@ function Speedometer({ value }) {
             },
           ]}
         />
-      </Box>
-
-      <Box >
-        <TableContainer ml="40px">
+        <TableContainer>
           <Table
             variant="simple"
             colorScheme="teal"
@@ -66,8 +65,8 @@ function Speedometer({ value }) {
             fontWeight="semibold"
           >
             <TableCaption>BMI Chart</TableCaption>
-            <Thead bg="grey" >
-              <Tr >
+            <Thead bg="grey">
+              <Tr>
                 <Th color="white">BMI</Th>
                 <Th color="white">Status</Th>
               </Tr>
