@@ -12,7 +12,7 @@ import {
   InputLeftElement,
 } from "@chakra-ui/react";
 import React from "react";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import "../styles/Home.css";
 import Dairy from "../Images/diary.svg";
 import Barcode from "../Images/barcode.svg";
@@ -27,6 +27,7 @@ import SimpleSlider from "../Components/Slider";
 import { Search2Icon } from "@chakra-ui/icons";
 
 const Home = () => {
+  let navigate = useNavigate();
   return (
     <>
       <div id="bg">
@@ -70,7 +71,7 @@ const Home = () => {
               information and serving size.
             </Text>
             <br />
-            <InputGroup mt={5}>
+            <InputGroup mt={5} onClick={() => navigate("/food")}>
               <InputLeftElement
                 pointerEvents="none"
                 children={<Search2Icon color="black" />}

@@ -47,7 +47,7 @@ const ProfileForm = () => {
       spacing={5}
       bg="white"
       alignItems="flex-start"
-      p={100}
+      p={30}
       pl={10}
     >
       <Heading
