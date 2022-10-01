@@ -1,0 +1,417 @@
+{
+  "soup": [
+    {
+      "name": "Soup",
+      "sidec": 160,
+      "category": "Optifast Soup, 1 cup",
+      "Calories": 160,
+      "Carbs": 19,
+      "Fat": 4,
+      "Protein": 14
+    },
+    {
+      "name": "Soup",
+      "category": "Wonton soup, 1 cups",
+      "Calories": 181,
+      "Carbs": 14,
+      "Fat": 7,
+      "Protein": 14
+    },
+    {
+      "name": "Miso Soup",
+      "category": "Miso Soup, 1 cup",
+      "Calories": 84,
+      "Carbs": 8,
+      "Fat": 3,
+      "Protein": 6
+    },
+    {
+      "name": "Soup",
+      "category": "moroccan lentil soup, 1.25 cups",
+      "Calories": 152,
+      "Carbs": 28,
+      "Fat": 1,
+      "Protein": 9
+    },
+    {
+      "name": "A Tasty Soup",
+      "category": "Soup Soup, 0.5 can",
+      "Calories": 104,
+      "Carbs": 9,
+      "Fat": 6,
+      "Protein": 3
+    },
+    {
+      "name": "Cheeseburger Soup",
+      "category": "Soup, 1 Cup",
+      "Calories": 330,
+      "Carbs": 26,
+      "Fat": 18,
+      "Protein": 15
+    },
+    {
+      "name": "Soup",
+      "category": "egg drop soup, 1 cup",
+      "Calories": 73,
+      "Carbs": 1,
+      "Fat": 4,
+      "Protein": 8
+    },
+    {
+      "name": "Lasagna Soup",
+      "category": "Lasagna soup, 1 cup",
+      "Calories": 225,
+      "Carbs": 17,
+      "Fat": 7,
+      "Protein": 23
+    },
+    {
+      "name": "Soup",
+      "category": "Chicken Enchilada Soup, 1.5 cups",
+      "Calories": 261,
+      "Carbs": 30,
+      "Fat": 7,
+      "Protein": 25
+    },
+    {
+      "name": "Soup",
+      "category": "Quinoa mushroom soup, 2 cups",
+      "Calories": 229,
+      "Carbs": 31,
+      "Fat": 8,
+      "Protein": 8
+    }
+  ],
+  "Chicken": [
+    {
+      "name": "Chicken",
+      "sidec": 100,
+      "category": "Grilled chicken, 4 oz",
+      "Calories": 100,
+      "Carbs": 1,
+      "Fat": 2,
+      "Protein": 22
+    },
+    {
+      "name": "Chicken",
+      "category": "Chicken tenderloin, 1 piece",
+      "Calories": 100,
+      "Carbs": 0,
+      "Fat": 1,
+      "Protein": 22
+    },
+    {
+      "name": "Chicken Thigh",
+      "category": "Chicken, 1 cup",
+      "Calories": 135,
+      "Carbs": 0,
+      "Fat": 8,
+      "Protein": 14
+    },
+    {
+      "name": "Chicken",
+      "category": "organic chicken, 4 oz",
+      "Calories": 120,
+      "Carbs": 0,
+      "Fat": 1,
+      "Protein": 26
+    },
+    {
+      "name": "Chicken",
+      "category": "Chicken drumsticks, 1 One drumstick",
+      "Calories": 180,
+      "Carbs": 0,
+      "Fat": 10,
+      "Protein": 22
+    },
+    {
+      "name": "Mc Chicken",
+      "category": "Chicken, 1 cup",
+      "Calories": 360,
+      "Carbs": 40,
+      "Fat": 16,
+      "Protein": 14
+    },
+    {
+      "name": "Chicken",
+      "category": "Chicken Meijer, 3 oz",
+      "Calories": 120,
+      "Carbs": 0,
+      "Fat": 4,
+      "Protein": 21
+    },
+    {
+      "name": "Hawaiian Chicken",
+      "category": "Chicken, 1 c",
+      "Calories": 247,
+      "Carbs": 25,
+      "Fat": 2,
+      "Protein": 30
+    },
+    {
+      "name": "Evol Chicken Teriyaki Chicken",
+      "category": "Evol Chicken Teriyaki Chicken, 1 bowl",
+      "Calories": 260,
+      "Carbs": 43,
+      "Fat": 3,
+      "Protein": 14
+    },
+    {
+      "name": "Rotisserie Chicken",
+      "category": "Rotisserie chicken, 3 oz",
+      "Calories": 170,
+      "Carbs": 1,
+      "Fat": 11,
+      "Protein": 15
+    }
+  ],
+  "egg": [
+    {
+      "name": "Egg",
+      "sidec": "143",
+      "category": "1 large",
+      "Calories": 143,
+      "Carbs": 1,
+      "Fat": 10,
+      "Protein": 13
+    },
+    {
+      "name": "Egg white",
+      "category": "1 large",
+      "Calories": 52,
+      "Carbs": 1,
+      "Fat": 0,
+      "Protein": 11
+    },
+    {
+      "name": "Egg yolk",
+      "category": "1 egg yolk",
+      "Calories": 322,
+      "Carbs": 4,
+      "Fat": 27,
+      "Protein": 16
+    },
+    {
+      "name": "Egg",
+      "category": "Egg, 1 large (50g)",
+      "Calories": 70,
+      "Carbs": 0,
+      "Fat": 5,
+      "Protein": 6
+    },
+    {
+      "name": "Egg",
+      "category": "Egg, 1 large",
+      "Calories": 143,
+      "Carbs": 1,
+      "Fat": 10,
+      "Protein": 13
+    },
+    {
+      "name": "Boil Egg",
+      "category": "Egg, 1 small",
+      "Calories": 70,
+      "Carbs": 1,
+      "Fat": 5,
+      "Protein": 6
+    },
+    {
+      "name": "Small Egg",
+      "category": "Egg, 1 egg",
+      "Calories": 54,
+      "Carbs": 0,
+      "Fat": 4,
+      "Protein": 5
+    },
+    {
+      "name": "Hardboiled Egg",
+      "category": "Egg, 1 egg",
+      "Calories": 70,
+      "Carbs": 1,
+      "Fat": 5,
+      "Protein": 6
+    },
+    {
+      "name": "Egg",
+      "category": "egg substitute, 0.25 cup",
+      "Calories": 30,
+      "Carbs": 1,
+      "Fat": 0,
+      "Protein": 6
+    },
+    {
+      "name": "Egg",
+      "category": "Organic Egg, 1 egg",
+      "Calories": 70,
+      "Carbs": 1,
+      "Fat": 5,
+      "Protein": 6
+    }
+  ],
+  "Apple": [
+    {
+      "name": "Apple",
+      "sidec": "52",
+      "category": "1 medium",
+      "Calories": 52,
+      "Carbs": 14,
+      "Fat": 0,
+      "Protein": 0
+    },
+    {
+      "name": "Medium Apple",
+      "category": "Apple, 1 medium (3\" dia) (182g)",
+      "Calories": 95,
+      "Carbs": 25,
+      "Fat": 0,
+      "Protein": 1
+    },
+    {
+      "name": "Apple",
+      "category": "Spartan apple, 1 apple",
+      "Calories": 50,
+      "Carbs": 13,
+      "Fat": 0,
+      "Protein": 0
+    },
+    {
+      "name": "Apple",
+      "category": "Cameo apple, 154 grams",
+      "Calories": 80,
+      "Carbs": 22,
+      "Fat": 0,
+      "Protein": 0
+    },
+    {
+      "name": "Apple Country",
+      "category": "apple, 1 apple",
+      "Calories": 80,
+      "Carbs": 22,
+      "Fat": 0,
+      "Protein": 0
+    },
+    {
+      "name": "Medium Apple",
+      "category": "jazz apple, 1 one",
+      "Calories": 80,
+      "Carbs": 22,
+      "Fat": 0,
+      "Protein": 0
+    },
+    {
+      "name": "Apple Bread",
+      "category": "Apple bread, 1 piece",
+      "Calories": 200,
+      "Carbs": 33,
+      "Fat": 7,
+      "Protein": 3
+    },
+    {
+      "name": "Apple",
+      "category": "Pacific rose apple, 1 Medium apple 154g",
+      "Calories": 80,
+      "Carbs": 22,
+      "Fat": 0,
+      "Protein": 0
+    },
+    {
+      "name": "Apple Fritter",
+      "category": "apple fritter, 1 donut",
+      "Calories": 300,
+      "Carbs": 41,
+      "Fat": 14,
+      "Protein": 4
+    },
+    {
+      "name": "Apple Straws",
+      "category": "Apple straws, 38 straws",
+      "Calories": 130,
+      "Carbs": 16,
+      "Fat": 7,
+      "Protein": 1
+    }
+  ],
+  "banana": [
+    {
+      "name": "Banana",
+      "sidec": "89",
+      "category": "1 medium",
+      "Calories": 89,
+      "Carbs": 23,
+      "Fat": 0,
+      "Protein": 1
+    },
+    {
+      "name": "Large Banana",
+      "category": "Banana, 1 piece",
+      "Calories": 121,
+      "Carbs": 31,
+      "Fat": 0,
+      "Protein": 2
+    },
+    {
+      "name": "Banana - (One)",
+      "category": "Banana - (One), 118 grams",
+      "Calories": 105,
+      "Carbs": 27,
+      "Fat": 0,
+      "Protein": 1
+    },
+    {
+      "name": "Banana Sliced",
+      "category": "Banana, 1 cup ( 166 G)",
+      "Calories": 133,
+      "Carbs": 34,
+      "Fat": 1,
+      "Protein": 2
+    },
+    {
+      "name": "Large Fresh Banana",
+      "category": "Banana, 1 large (8\" to 8-7/8\" long)",
+      "Calories": 121,
+      "Carbs": 31,
+      "Fat": 0,
+      "Protein": 2
+    },
+    {
+      "name": "Banana ?",
+      "category": "Banana?, 105 (7\" to 7 7/8\" long) (118g)",
+      "Calories": 105,
+      "Carbs": 27,
+      "Fat": 0,
+      "Protein": 1
+    },
+    {
+      "name": "Banana Banana Bread",
+      "category": "Allrecipes, 1 slice",
+      "Calories": 229,
+      "Carbs": 35,
+      "Fat": 9,
+      "Protein": 4
+    },
+    {
+      "name": "Banana Bruschetta",
+      "category": "Banana bruschetta, 2 slices",
+      "Calories": 312,
+      "Carbs": 48,
+      "Fat": 5,
+      "Protein": 15
+    },
+    {
+      "name": "Banana",
+      "category": "Banana fritter, 1 Slice",
+      "Calories": 85,
+      "Carbs": 10,
+      "Fat": 5,
+      "Protein": 0
+    },
+    {
+      "name": "Banana",
+      "category": "Banana (JLDN), 30 g - 1 oz",
+      "Calories": 26,
+      "Carbs": 6,
+      "Fat": 0,
+      "Protein": 0
+    }
+  ]
+}
