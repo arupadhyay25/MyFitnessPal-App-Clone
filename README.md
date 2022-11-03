@@ -45,9 +45,9 @@ All the image and icon links have been taken from the main website ( [My Fitness
 ![bmi](https://user-images.githubusercontent.com/105644684/199644905-e847ab86-224b-45ac-93b2-a73226ca5c29.JPG)
 
 ### End Notes 📑
--In this project I tried to achieve a near to perfect clone of the original website as much as possible with very limited knowledge of javascript & css. This entire journey of has given ume experiences and I have learned lots of things by applying to the real website and it gave us a lot of confidence.
+- In this project I tried to achieve a near to perfect clone of the original website as much as possible with very limited knowledge of javascript & css. This entire journey of has given ume experiences and I have learned lots of things by applying to the real website and it gave us a lot of confidence.
 
--It Was Selected In top 4 project among 1000 students.
+- It Was Selected In top 4 project among 1000 students.
 
 ### Limitations:
 All pages are not responsive yet , those pages are might not be properly visible on small screen devices.
