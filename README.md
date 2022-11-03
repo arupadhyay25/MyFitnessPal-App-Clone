@@ -1,9 +1,9 @@
 # MyFitnessPal App (Clone)
-Project: make a clone of https://www.myfitnesspal.com/ site
+Project: make a clone of https://bellavitaorganic.com/ site
 
 *A Calorie and macros tracking Website help to maintain weight Goals such as Fat, Carbs, and Protein..  *
 
-&nbsp;&nbsp;&nbsp;&#160;In this project we have tried to make a look alike clone of actual Website. With our efforts and the technology stack, that we have learned till now in the masai school, we were able to clone the front end with same looking & features. <br><br>
+&nbsp;&nbsp;&nbsp;&#160;In this project I have tried to make a look alike clone of actual Website. With all the efforts and the technology stack, that I have learned till now in the masai school, I was able to clone the front end with same looking & features. <br><br>
 
 ## Technology Stack Used
 
@@ -45,7 +45,9 @@ All the image and icon links have been taken from the main website ( [My Fitness
 ![bmi](https://user-images.githubusercontent.com/105644684/199644905-e847ab86-224b-45ac-93b2-a73226ca5c29.JPG)
 
 ### End Notes 📑
-In this project we were tried to achieve a near to perfect clone of the original website as much as possible with very limited knowledge of javascript & css. This entire journey of has given ume experiences and I have learned lots of things by applying to the real website and it gave us a lot of confidence.
+-In this project I tried to achieve a near to perfect clone of the original website as much as possible with very limited knowledge of javascript & css. This entire journey of has given ume experiences and I have learned lots of things by applying to the real website and it gave us a lot of confidence.
+
+-It Was Selected In top 4 project among 1000 students.
 
 ### Limitations:
 All pages are not responsive yet , those pages are might not be properly visible on small screen devices.
